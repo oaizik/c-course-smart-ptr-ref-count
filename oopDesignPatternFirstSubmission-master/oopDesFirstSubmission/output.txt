@@ -1,0 +1,9 @@
+number of students who started:1.
+number of student  who learning:1.
+number of students who finished:0.
+course name:OO&Design Patterns
+course departmentEngineering
+course ID:121
+number of credits:4
+students:
+There are no students enrolled in this course

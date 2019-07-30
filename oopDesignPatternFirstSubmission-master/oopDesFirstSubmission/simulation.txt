@@ -1,0 +1,24 @@
+#this is comments, please ignore
+#operation 1, name = Dan, Last name = cohen, id = 065899652, adress = Tel-Aviv Dereh-ha-shalom 120 starting study year = 1998,Department = Engineering
+1,Dan,Cohen,065899652,Tel-Aviv Dereh-ha-shalom 120,1998,Engineering
+
+#operation = 2, id=065899652, courseId = 121
+2,065899652,121
+
+#operation = 3, courseid = 121
+3,121
+
+#operation=4, id=065899652, courseId = 122
+4,065899652,122
+
+#operation=5, id=065899652, courseId = 122
+5,065899652,122
+
+#operation=6, id=065899652, year when excluded = 2000
+6,065899652,2000
+
+#print details on engineering faculty which started in 1998
+7,Engineering,1998
+
+#print course details
+8,121

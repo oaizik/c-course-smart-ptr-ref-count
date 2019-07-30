@@ -1,0 +1,6 @@
+#lines which begins with # you should be able to ignore in your code
+College:Shenkar
+Departments:Engineering,Style,GraphicDesign
+CollageCoursesList:121,122,123,124,125,221,222,223,224,225
+#CourseNumber:121,department = Engineering, CoursePoints:4,Name: OO&Design Patterns
+CourseDetails:121,Engineering,4,OO&Design Patterns
